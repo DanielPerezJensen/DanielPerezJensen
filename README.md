@@ -4,7 +4,7 @@
 **DanielPerezJensen/DanielPerezJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at Accenture as a Data Engineering Analyst
+- 🔭 I’m currently working at Accenture as a Data Engineering Specialist
 - 🌱 I studied artificial intelligence
 - 📫 How to reach me: danielperezjensen@gmail.com
 
